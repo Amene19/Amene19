@@ -1,0 +1,24 @@
+
+#container {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#header img {
+	border-radius: 0 ;
+}
+
+#footer {
+	border-radius: 0 ;
+}
+
+aside {
+	text-align: center;
+}
+
+#botrk img,#viego img {
+	float: inherit;
+	text-align: center;
+}
+	
