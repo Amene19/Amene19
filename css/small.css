@@ -20,5 +20,8 @@ aside {
 #botrk img,#viego img {
 	float: inherit;
 	text-align: center;
+} 
+
+#fram {
+	width: 100%;
 }
-	
